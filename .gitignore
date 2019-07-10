@@ -4,3 +4,5 @@ CV.fdb_latexmk
 CV.fls
 CV.out
 CV.synctex.gz
+CV.bbl
+CV.blg
